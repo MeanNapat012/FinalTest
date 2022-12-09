@@ -1,0 +1,15 @@
+D:\github\FinalTest\Test02\bin\Debug\net6.0\Test02.exe
+D:\github\FinalTest\Test02\bin\Debug\net6.0\Test02.deps.json
+D:\github\FinalTest\Test02\bin\Debug\net6.0\Test02.runtimeconfig.json
+D:\github\FinalTest\Test02\bin\Debug\net6.0\Test02.dll
+D:\github\FinalTest\Test02\bin\Debug\net6.0\Test02.pdb
+D:\github\FinalTest\Test02\obj\Debug\net6.0\Test02.csproj.AssemblyReference.cache
+D:\github\FinalTest\Test02\obj\Debug\net6.0\Test02.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\FinalTest\Test02\obj\Debug\net6.0\Test02.AssemblyInfoInputs.cache
+D:\github\FinalTest\Test02\obj\Debug\net6.0\Test02.AssemblyInfo.cs
+D:\github\FinalTest\Test02\obj\Debug\net6.0\Test02.csproj.CoreCompileInputs.cache
+D:\github\FinalTest\Test02\obj\Debug\net6.0\Test02.dll
+D:\github\FinalTest\Test02\obj\Debug\net6.0\refint\Test02.dll
+D:\github\FinalTest\Test02\obj\Debug\net6.0\Test02.pdb
+D:\github\FinalTest\Test02\obj\Debug\net6.0\Test02.genruntimeconfig.cache
+D:\github\FinalTest\Test02\obj\Debug\net6.0\ref\Test02.dll
